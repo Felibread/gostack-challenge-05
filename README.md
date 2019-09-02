@@ -2,8 +2,8 @@
 
 This one was hard. I mostly evolved my understanding about state management in React.
 
-<img src="./imgs/app.jpeg" />
-<img src="./imgs/app2.jpeg" />
+<img src="./imgs/app.jpeg" width="100%"/>
+<img src="./imgs/app2.jpeg" width="100%"/>
 
 ## Run this project
 
